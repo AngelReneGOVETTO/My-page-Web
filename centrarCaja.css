@@ -1,0 +1,12 @@
+.cajas-gris{
+    display: flex;
+    background-color: grey;
+    width: 1355px;
+    height: 597px;
+    justify-content: center;
+    align-items: center;
+}
+.cajas-gris img{
+    width: 1300px;
+    height: 500px;
+}

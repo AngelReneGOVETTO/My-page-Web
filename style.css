@@ -1,0 +1,42 @@
+body{
+    background-image: url(./img/fn.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+img[src]#iid{
+    width: 500px;
+    height: 510px;
+}
+img[src]#iiid{
+    width: 510px;
+    height: 500px;
+}
+img[src]#iiiid{
+    width: 500px;
+    height: 500px;
+}
+img[src]#sid{
+    width: 750px;
+    height: 500px;
+}
+img[src].siid{
+    width: 500px;
+    height: 750px;
+}
+table{
+    border: 2px solid yellowgreen;
+}
+img[src]#tid{
+    width: 225px;
+    height: 350px;
+}
+img[src]#tiid{
+    width: 250px;
+    height: 350px
+}
+s:hover{
+    background-color: red;
+}
+.acl{
+    text-align: center;
+}
